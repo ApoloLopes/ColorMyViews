@@ -1,13 +1,14 @@
 # Dice Roller App
-> This app works like a virtual dice. 
+> Esse aplicativo interage atraves do toque nas caixas.
 
-As a part of an Udacity lesson, this was made to works like a virtual dice. Just tap to get your number
+Toque na tela de fundo e depois nas caixas e tenha mudança de cores!!
+Use os tambem os botões para mudar as cores das caixas como indicado.
 
-![](photo5168374292239460516.jpg)
+![](colorMyViews.jpg)
 
 ## Installation
 
-Android only: Execute the apk and have fun!!
+Android only: Execute o projeto no Android Estudio, gere o apk e instale.
 
 
 ## Meta
