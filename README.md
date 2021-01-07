@@ -1,4 +1,4 @@
-# Dice Roller App
+# ColorMyViews App
 > Esse aplicativo interage atraves do toque nas caixas.
 
 Toque na tela de fundo e depois nas caixas e tenha mudança de cores!!
